@@ -1,0 +1,1074 @@
+{
+	"folder_history":
+	[
+		"/E/GraduationProject/模板素材/admin",
+		"/E/Workspace/Eclipse Project/Dept3web",
+		"/D/备份/Dept3Web_static_pages",
+		"/C/Users/Elvis/Desktop/前端各种插件/jQuery响应式多级下拉导航菜单特效/jQueryNav",
+		"/C/Users/Elvis/Desktop/flow-chart",
+		"/C/Users/Elvis/Desktop/Demo",
+		"/C/Users/Elvis/Desktop/flow-chart2",
+		"/D/gooflow0.9",
+		"/C/Users/Elvis/Desktop/flow-chart-master",
+		"/D/gitProjects/Spring-SpringMVC-MyBatis",
+		"/C/Users/Elvis/Desktop/dagre-d3-0.4.10",
+		"/C/Users/Elvis/Desktop/jsPlumb Demo",
+		"/C/Users/Elvis/Desktop/gangtao-FlowChart-Builder/FlowChart-Builder",
+		"/C/Users/Elvis/Desktop/gooflow0.9",
+		"/C/Users/Elvis/Desktop/gooflow0.8",
+		"/C/Users/Elvis/Desktop/gooFlow"
+	],
+	"last_version": 3126,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"wi",
+						"width"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"dra",
+						"draggable"
+					],
+					[
+						"func",
+						"function with name"
+					],
+					[
+						"det",
+						"detach(): void\tNodeIterator"
+					],
+					[
+						"pr",
+						"prototype"
+					],
+					[
+						"conso",
+						"console.log()"
+					],
+					[
+						"Nod",
+						"NodeData"
+					],
+					[
+						"rem",
+						"remove(): void\tElement"
+					],
+					[
+						"new",
+						"newY"
+					],
+					[
+						"d",
+						"dist/"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"item",
+						"item_left"
+					],
+					[
+						"c",
+						"cols\tAttr"
+					],
+					[
+						"li",
+						"link\tTag"
+					],
+					[
+						"fun",
+						"fun\tFunction"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"marg",
+						"margin-left"
+					],
+					[
+						"las",
+						"last_deploy_time"
+					],
+					[
+						"app_n",
+						"app_newNum"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 265.0,
+				"last_filter": "ssj",
+				"selected_items":
+				[
+					[
+						"ssj",
+						"Set Syntax: JSON"
+					],
+					[
+						"ssh",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"ssm",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ss",
+						"Set Syntax: HTML"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ssjsp",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"upgr",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"PackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"ssc",
+						"Set Syntax: CSS"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Elvis/Desktop/TEDC-Portal-master/.gitignore",
+				"/E/Workspace/Eclipse",
+				"/E/Workspace/Eclipse Neon/TEDC-Portal/Neon/TEDC-Portal/.gitignore",
+				"/C/Users/Elvis/Desktop/flow-chart/demo/demo.html",
+				"/C/Users/Elvis/Desktop/flow-chart/chart.js",
+				"/C/Users/Elvis/Desktop/flow-chart/demo/demo.js",
+				"/C/Users/Elvis/Desktop/chart1.js",
+				"/C/Users/Elvis/Desktop/bundle.js",
+				"/C/Users/Elvis/Desktop/edit_workflow1.js",
+				"/C/Users/Elvis/Desktop/flow-chart/demo/demo.css",
+				"/E/Workspace/Eclipse Neon/TEDC-Portal/Neon/TEDC-Portal/README.md",
+				"/D/GreenSoftware/迅雷极速版v1.0.35.360 v2 by Kanx/Thunder/使用说明.rtf",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/侧面板滑块插件jquery-panelslider/jquery-panelslider-1.0.0/example.html",
+				"/C/Users/Elvis/Downloads/gmcc$1.1.0/demo/component/extend-panel.html",
+				"/C/Users/Elvis/AppData/Local/Temp/c8f46ddf-10f8-406f-94fa-cfe877905486/edit_deploystep_main.jsp",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/侧面板滑块插件jquery-panelslider/jquery-panelslider-master/index.html",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/侧面板滑块插件jquery-panelslider/jquery-panelslider-master/jquery.panelslider.js",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/侧面板滑块插件jquery-panelslider/jquery-panelslider-master/README.md",
+				"/C/Users/Elvis/Desktop/flow-chart/test/nodes.js",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/jQuery bootstrap-select下拉多选和搜索/index.html",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/jQuery bootstrap-select下拉多选和搜索/bootstrap-select.css",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/jQuery bootstrap-select下拉多选和搜索/bootstrap-select.js",
+				"/C/Users/Elvis/Desktop/1.html",
+				"/C/Users/Elvis/Desktop/前端各种插件/jQuery响应式多级下拉导航菜单特效/jQueryNav/css/jq22.css",
+				"/C/Users/Elvis/Desktop/前端各种插件/jQuery响应式多级下拉导航菜单特效/jQueryNav/js/jq22.js",
+				"/C/Users/Elvis/Desktop/前端各种插件/jQuery响应式多级下拉导航菜单特效/jQueryNav/index.html.dump",
+				"/C/Users/Elvis/Desktop/流程图设计器/jsplumb_2.3.0.js",
+				"/C/Users/Elvis/Desktop/flow-chart2/demo/bundle.js",
+				"/C/Users/Elvis/Desktop/Demo/app.js",
+				"/C/Users/Elvis/Desktop/flow-chart2/demo/demo.html",
+				"/E/Java/bingo-eclipse/eclipse/eclipse.ini",
+				"/C/Users/Elvis/Desktop/flow-chart-master/chart.js",
+				"/D/gooflow0.9/GooFlow/codebase/GooFlow.css",
+				"/D/gooflow0.9/GooFlow/demo2.html",
+				"/C/Users/Elvis/Desktop/flow-chart-master/demo/demo.html",
+				"/C/Users/Elvis/Desktop/flow-chart-master/demo/demo.js",
+				"/C/Users/Elvis/Desktop/flow-chart-master/test/nodes.js",
+				"/C/Users/Elvis/Desktop/flow-chart-master/chart.css",
+				"/C/Users/Elvis/Desktop/jsPlumb Demo/demo.js",
+				"/C/Users/Elvis/Desktop/flow-chart-master/demo/demo.css",
+				"/D/gitProjects/Spring-SpringMVC-MyBatis/src/main/java/com/demo/service/UserService.java",
+				"/D/gitProjects/Spring-SpringMVC-MyBatis/src/main/java/com/demo/dao/UserMapper.java",
+				"/D/gitProjects/Spring-SpringMVC-MyBatis/src/main/java/com/demo/controller/UserController.java",
+				"/E/Workspace/IdeaProjects/SSM/src/main/resources/generatorConfig.xml",
+				"/C/Users/Elvis/Desktop/gangtao-FlowChart-Builder/FlowChart-Builder/main.js",
+				"/C/Users/Elvis/Desktop/gangtao-FlowChart-Builder/FlowChart-Builder/index.html",
+				"/C/Users/Elvis/Desktop/jsPlumb Demo/demo.css",
+				"/C/Users/Elvis/Desktop/jsPlumb Demo/jsPlumb_Demo.html",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/sentence-tokenization.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/user-defined.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/tipsy.js",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/tipsy.css",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/tcp-state-diagram.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/svg-labels.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/style-attrs.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/interactive-demo.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/graph-story-board.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/hover.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/etl-status.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/arrows.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/demo.js",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/dom.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/demo.css",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/clusters.html",
+				"/C/Users/Elvis/Desktop/Demo/index.html",
+				"/C/Users/Elvis/Desktop/Demo/app.css",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/shapes.html",
+				"/C/Users/Elvis/Desktop/gangtao-FlowChart-Builder/FlowChart-Builder/1.html",
+				"/C/Users/Elvis/Desktop/jsPlumb-master/demo/flowchart/dom.html",
+				"/C/Users/Elvis/Desktop/Demo/index.html.dump",
+				"/C/Users/Elvis/Desktop/jsPlumb Demo/jsPlumb_Demo_2.html",
+				"/C/Users/Elvis/Desktop/jsPlumb doc.md",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/Default (Windows).sublime-keymap",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/Default (Windows).sublime-keymap",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/User/ConvertToUTF8.sublime-settings",
+				"/C/Users/Elvis/Desktop/流程图设计器/jsplumb.js",
+				"/C/Users/Elvis/Desktop/流程图设计器/jsplumb.min.js",
+				"/C/Users/Elvis/Desktop/gooflow0.9/GooFlow/data2.js",
+				"/C/Users/Elvis/Desktop/gooflow0.9/GooFlow/data.js",
+				"/C/Users/Elvis/Desktop/gooflow0.9/GooFlow/demo2.html",
+				"/C/Users/Elvis/Desktop/gooflow0.9/GooFlow/demo.html",
+				"/C/Users/Elvis/Desktop/gooflow0.9/GooFlow/child.js",
+				"/C/Users/Elvis/Desktop/gooflow0.8/GooFlow/demo2.html",
+				"/C/Users/Elvis/Desktop/gooflow0.8/default.css.dump",
+				"/C/Users/Elvis/Desktop/gooflow0.8/json2.js.dump",
+				"/C/Users/Elvis/Desktop/gooFlow/json2.js.dump",
+				"/C/Users/Elvis/Desktop/gooFlow/GooFlow/demo.html",
+				"/C/Users/Elvis/Desktop/gooFlow/json2.js",
+				"/C/Users/Elvis/Desktop/gooFlow/default.css.dump",
+				"/C/Users/Elvis/Desktop/gooFlow/default.css",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
+				"/C/Users/Elvis/Desktop/新建文件夹/deploy_task_new.js",
+				"/C/Users/Elvis/Desktop/新建文件夹/deploy_task_new.css",
+				"/C/Users/Elvis/Desktop/deploy_task_new.html",
+				"/C/Users/Elvis/Downloads/Compressed/widget-grid$1.1.0/statics/scripts/plugins/grid/demo.html",
+				"/C/Users/Elvis/Downloads/Compressed/widget-grid$1.1.0/statics/scripts/plugins/grid/demo-grouphead.html",
+				"/C/Users/Elvis/Downloads/Compressed/widget-grid$1.1.0/statics/scripts/plugins/grid/demo/dataservice-demo.html",
+				"/C/Users/Elvis/Downloads/Compressed/gooFlow/GooFlow/demo.html",
+				"/E/Workspace/Bingosoft/BSPRD2016051-管理系统部-自动化更新部署工具/Source/01.trunk/BSCD/BSCD-WebSite/src/main/resources/config/jdbc.xml",
+				"/C/Users/Elvis/Desktop/env_detail_show.html",
+				"/C/Users/Elvis/Downloads/Compressed/widget-grid$1.1.0/statics/scripts/plugins/grid/demo.xml",
+				"/C/Program Files/MacType/ini/LCD+微软雅黑+Arial.ini",
+				"/E/软件/激活破解/IntelliJIDEALicenseServer(v1.3)/IntelliJIDEALicenseServer_linux_amd64",
+				"/C/Users/Elvis/Desktop/zTree_v3-3.5.28/demo/cn/super/left_menuForOutLook.html",
+				"/C/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3.5/bin/idea64.exe.vmoptions",
+				"/C/Users/Elvis/Desktop/desktop.ini",
+				"/C/Users/Elvis/Desktop/list_function_controls.html",
+				"/C/Users/Elvis/Desktop/app_index.html",
+				"/C/Users/Elvis/Desktop/新建文件夹/demo/base/base-icons02.html",
+				"/C/Users/Elvis/Desktop/新建文件夹/demo/example/default/example-home.html",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Elvis/Desktop/zTree_v3-3.5.28/demo/cn/bigdata/diy_async.html",
+				"/C/Users/Elvis/Desktop/BSCD-security-console/pom.xml",
+				"/C/Users/Elvis/Desktop/ztreeDemo/demo.html",
+				"/E/Java/eclipse-mars/eclipse.ini",
+				"/C/Users/Elvis/Desktop/zTree_v3-3.5.28/demo/cn/asyncData/getNodesForBigData.php",
+				"/E/Java/bingo-eclipse/tomcat/webapps/nodes.json",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/scripts/beautify-css.js",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Users/Elvis/Desktop/jqTree/jqTreedemo.html"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"使用测试数据",
+					"demo-chart",
+					"../statics/scripts",
+					"draggable",
+					"click",
+					"detach",
+					"removeNode",
+					"let Chart",
+					"chart = ",
+					"basic",
+					"draggable",
+					"addNode",
+					"jtk-drag",
+					"p><a href=\"http://www.freedevelopertutorials.com/jsplumb-tutorial/introduction/\">Visit the full jsPlumb-Tutorial</a> to learn it and see many more interesting examples.</p>",
+					"  float: left;",
+					"draggable",
+					"list-group-item",
+					"data",
+					"data2",
+					"sidebar_label",
+					"\t\t\n",
+					"\"app_name\">应用名称</label>\n\t\t\t<p id=\"app_name\">办公自动化管理系统</p>\n\t\t\t<label for=\"app_code\">应用编码</label>\n\t\t\t<p id=\"app_code\">OAS</p>\n\t\t\t<label for=\"app_desc\">应用描述</label>\n\t\t\t<p id=\"app_desc\">办公自动化系统是XXX。。。</p>\n\t\t\t<label for=\"app_newNum\">最新版本：</label>\n\t\t\t<p id=\"app_newNum\">1.6.1</p>\n\t\t\t<label for=\"version_desc\">版本说明：</label>\n\t\t\t<p id=\"version_desc\">1、修复了XXX的问题；2、新增XXX功能用于XXX业务。。。</p>\n\t\t\t<label for=\"last_deploy\"></label>\n\t\t\t<p id=\"last_deploy\"></p>\n\t\t\t<label for=\"last_deploy_time\"></label>\n\t\t\t<p id=\"last_deploy_time\"></p>",
+					"html",
+					"   \n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"libs"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 218.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 986.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"in",
+						"index - 副本.html"
+					],
+					[
+						"ta",
+						"text-align"
+					],
+					[
+						"a",
+						"alt\tAttr"
+					],
+					[
+						"u",
+						"url()"
+					],
+					[
+						"marg",
+						"margin-right"
+					],
+					[
+						"fons",
+						"font-size"
+					],
+					[
+						"bac",
+						"background-attachment"
+					],
+					[
+						"back",
+						"background-image"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"ma",
+						"margin-left"
+					],
+					[
+						"st",
+						"style\tTag"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"li",
+						"li\tTag"
+					],
+					[
+						"head",
+						"header\tTag"
+					],
+					[
+						"h",
+						"header\tTag"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"dra",
+						"draggable"
+					],
+					[
+						"func",
+						"function with name"
+					],
+					[
+						"det",
+						"detach(): void\tNodeIterator"
+					],
+					[
+						"pr",
+						"prototype"
+					],
+					[
+						"conso",
+						"console.log()"
+					],
+					[
+						"Nod",
+						"NodeData"
+					],
+					[
+						"rem",
+						"remove(): void\tElement"
+					],
+					[
+						"new",
+						"newY"
+					],
+					[
+						"d",
+						"dist/"
+					],
+					[
+						"item",
+						"item_left"
+					],
+					[
+						"c",
+						"cols\tAttr"
+					],
+					[
+						"fun",
+						"fun\tFunction"
+					],
+					[
+						"las",
+						"last_deploy_time"
+					],
+					[
+						"app_n",
+						"app_newNum"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<!doctype html>\n<html class=\"no-js\">\n\n<head>\n  <meta charset=\"utf-8\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"description\" content=\"\">\n  <meta name=\"keywords\" content=\"\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <title>Hello Amaze UI</title>\n\n  <!-- Set render engine for 360 browser -->\n  <meta name=\"renderer\" content=\"webkit\">\n\n  <!-- No Baidu Siteapp-->\n  <meta http-equiv=\"Cache-Control\" content=\"no-siteapp\" />\n\n  <link rel=\"icon\" type=\"image/png\" href=\"assets/i/favicon.png\">\n\n  <!-- Add to homescreen for Chrome on Android -->\n  <meta name=\"mobile-web-app-capable\" content=\"yes\">\n  <link rel=\"icon\" sizes=\"192x192\" href=\"assets/i/app-icon72x72@2x.png\">\n\n  <!-- Add to homescreen for Safari on iOS -->\n  <meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n  <meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black\">\n  <meta name=\"apple-mobile-web-app-title\" content=\"Amaze UI\" />\n  <link rel=\"apple-touch-icon-precomposed\" href=\"assets/i/app-icon72x72@2x.png\">\n\n  <!-- Tile icon for Win8 (144x144 + tile color) -->\n  <meta name=\"msapplication-TileImage\" content=\"assets/i/app-icon72x72@2x.png\">\n  <meta name=\"msapplication-TileColor\" content=\"#0e90d2\">\n\n  <link rel=\"stylesheet\" href=\"assets/css/amazeui.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/css/app.css\">\n</head>\n\n<body>\n  <p>\n    Hello Amaze UI.\n  </p>\n\n  <!--在这里编写你的代码-->\n\n  <!--[if (gte IE 9)|!(IE)]><!-->\n  <script src=\"assets/js/jquery.min.js\"></script>\n  <!--<![endif]-->\n  <!--[if lte IE 8 ]>\n<script src=\"http://libs.baidu.com/jquery/1.11.3/jquery.min.js\"></script>\n<script src=\"http://cdn.staticfile.org/modernizr/2.8.3/modernizr.js\"></script>\n<script src=\"assets/js/amazeui.ie8polyfill.min.js\"></script>\n<![endif]-->\n  <script src=\"assets/js/amazeui.min.js\"></script>\n</body>\n\n</html>\n",
+					"file": "/C/Users/wq_xi/Desktop/AmazeUI.html",
+					"file_size": 1895,
+					"file_write_time": 131387098855330219,
+					"settings":
+					{
+						"buffer_size": 1840,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "ss",
+				"selected_items":
+				[
+					[
+						"ss",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssm",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"ssj",
+						"Set Syntax: JSON"
+					],
+					[
+						"ssh",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ssjsp",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"upgr",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"PackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"ssc",
+						"Set Syntax: CSS"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/GraduationProject/模板素材/admin",
+				"/E/GraduationProject/模板素材/admin/assets",
+				"/E/GraduationProject/模板素材/admin/assets/js"
+			],
+			"file_history":
+			[
+				"/E/GraduationProject/模板素材/admin/index - 副本.html",
+				"/C/Users/wq_xi/Desktop/Surge.conf",
+				"/E/软件/科学上网/gui-config.json",
+				"/E/GraduationProject/模板素材/admin/assets/js/app.js",
+				"/E/GraduationProject/模板素材/admin/assets/js/dataTables.responsive.min.js",
+				"/E/GraduationProject/模板素材/admin/assets/js/theme.js",
+				"/E/GraduationProject/模板素材/admin/index.html",
+				"/E/GraduationProject/模板素材/admin/form.html",
+				"/E/GraduationProject/模板素材/admin/404.html",
+				"/E/Workspace/Eclipse Project/Dept3web/WebContent/css/main.css",
+				"/E/Workspace/Eclipse Project/Dept3web/WebContent/teachers.jsp",
+				"/D/备份/Dept3Web_static_pages/teachers.html",
+				"/E/GraduationProject/图片素材/教师个人主页图片素材/personal_info.html",
+				"/E/Workspace/Eclipse Project/Dept3web/WebContent/download.jsp",
+				"/D/备份/Dept3Web_static_pages/download.html",
+				"/E/Workspace/Eclipse Project/Dept3web/WebContent/index.jsp",
+				"/D/GreenSoftware/Xmanager Enterprise 5/!绿化.bat",
+				"/E/Workspace/Eclipse Project/Dept3web/WebContent/foot.jsp",
+				"/C/Users/wq_xi/Desktop/纯CSS多级下拉导航菜单.html",
+				"/C/Users/wq_xi/Desktop/surge.conf",
+				"/E/Workspace/Eclipse Project/Dept3web/WebContent/head.jsp",
+				"/D/备份/Dept3Web_static_pages/css/main.css",
+				"/C/Users/wq_xi/Desktop/main.css",
+				"/C/Users/wq_xi/Desktop/logo.jpg",
+				"/D/备份/Dept3Web_static_pages/index.html",
+				"/C/Users/wq_xi/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/前端各种插件Demo/纯CSS多级下拉导航菜单.html",
+				"/C/Users/wq_xi/Desktop/桂电计算机技术实验教学示范中心网站数据库.sql",
+				"/E/Workspace/Eclipse",
+				"/E/Workspace/Eclipse Neon/TEDC-Portal/src/test/java/Neon/TEDC-Portal/src/test/java/.gitignore",
+				"/E/Workspace/Eclipse Neon/TEDC-Portal/src/main/java/.gitignore",
+				"/E/Workspace/Eclipse Neon/TEDC-Portal/Neon/TEDC-Portal/.gitignore",
+				"/D/GitProjects/ExpressDemo/app.js",
+				"/C/Users/wq_xi/Desktop/sublime_addright.reg",
+				"/C/Users/Elvis/Desktop/Bingosoft通讯簿.CSV",
+				"/F/boot/grub/grub.cfg",
+				"/C/Users/Elvis/Desktop/flow-chart/Java快排.java",
+				"/C/Users/Elvis/Desktop/flow-chart/demo/demo.js",
+				"/C/Users/Elvis/AppData/Local/Temp/5742a585-45df-43c9-b4cc-565d71ea18ba/edit_workflow.js",
+				"/C/Users/Elvis/Desktop/TEDC-Portal-master/.gitignore",
+				"/C/Users/Elvis/Desktop/flow-chart/demo/demo.html",
+				"/C/Users/Elvis/Desktop/flow-chart/chart.js",
+				"/C/Users/Elvis/Desktop/chart1.js",
+				"/C/Users/Elvis/Desktop/bundle.js",
+				"/C/Users/Elvis/Desktop/edit_workflow1.js",
+				"/C/Users/Elvis/Desktop/flow-chart/demo/demo.css",
+				"/E/Workspace/Eclipse Neon/TEDC-Portal/Neon/TEDC-Portal/README.md",
+				"/D/GreenSoftware/迅雷极速版v1.0.35.360 v2 by Kanx/Thunder/使用说明.rtf",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/侧面板滑块插件jquery-panelslider/jquery-panelslider-1.0.0/example.html",
+				"/C/Users/Elvis/Downloads/gmcc$1.1.0/demo/component/extend-panel.html",
+				"/C/Users/Elvis/AppData/Local/Temp/c8f46ddf-10f8-406f-94fa-cfe877905486/edit_deploystep_main.jsp",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/侧面板滑块插件jquery-panelslider/jquery-panelslider-master/index.html",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/侧面板滑块插件jquery-panelslider/jquery-panelslider-master/jquery.panelslider.js",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/侧面板滑块插件jquery-panelslider/jquery-panelslider-master/README.md",
+				"/C/Users/Elvis/Desktop/flow-chart/test/nodes.js",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/jQuery bootstrap-select下拉多选和搜索/index.html",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/jQuery bootstrap-select下拉多选和搜索/bootstrap-select.css",
+				"/C/Users/Elvis/Desktop/前端各种插件Demo/jQuery bootstrap-select下拉多选和搜索/bootstrap-select.js",
+				"/C/Users/Elvis/Desktop/1.html",
+				"/C/Users/Elvis/Desktop/前端各种插件/jQuery响应式多级下拉导航菜单特效/jQueryNav/css/jq22.css",
+				"/C/Users/Elvis/Desktop/前端各种插件/jQuery响应式多级下拉导航菜单特效/jQueryNav/js/jq22.js",
+				"/C/Users/Elvis/Desktop/前端各种插件/jQuery响应式多级下拉导航菜单特效/jQueryNav/index.html.dump",
+				"/C/Users/Elvis/Desktop/流程图设计器/jsplumb_2.3.0.js",
+				"/C/Users/Elvis/Desktop/flow-chart2/demo/bundle.js",
+				"/C/Users/Elvis/Desktop/Demo/app.js",
+				"/C/Users/Elvis/Desktop/flow-chart2/demo/demo.html",
+				"/E/Java/bingo-eclipse/eclipse/eclipse.ini",
+				"/C/Users/Elvis/Desktop/flow-chart-master/chart.js",
+				"/D/gooflow0.9/GooFlow/codebase/GooFlow.css",
+				"/D/gooflow0.9/GooFlow/demo2.html",
+				"/C/Users/Elvis/Desktop/flow-chart-master/demo/demo.html",
+				"/C/Users/Elvis/Desktop/flow-chart-master/demo/demo.js",
+				"/C/Users/Elvis/Desktop/flow-chart-master/test/nodes.js",
+				"/C/Users/Elvis/Desktop/flow-chart-master/chart.css",
+				"/C/Users/Elvis/Desktop/jsPlumb Demo/demo.js",
+				"/C/Users/Elvis/Desktop/flow-chart-master/demo/demo.css",
+				"/D/gitProjects/Spring-SpringMVC-MyBatis/src/main/java/com/demo/service/UserService.java",
+				"/D/gitProjects/Spring-SpringMVC-MyBatis/src/main/java/com/demo/dao/UserMapper.java",
+				"/D/gitProjects/Spring-SpringMVC-MyBatis/src/main/java/com/demo/controller/UserController.java",
+				"/E/Workspace/IdeaProjects/SSM/src/main/resources/generatorConfig.xml",
+				"/C/Users/Elvis/Desktop/gangtao-FlowChart-Builder/FlowChart-Builder/main.js",
+				"/C/Users/Elvis/Desktop/gangtao-FlowChart-Builder/FlowChart-Builder/index.html",
+				"/C/Users/Elvis/Desktop/jsPlumb Demo/demo.css",
+				"/C/Users/Elvis/Desktop/jsPlumb Demo/jsPlumb_Demo.html",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/sentence-tokenization.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/user-defined.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/tipsy.js",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/tipsy.css",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/tcp-state-diagram.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/svg-labels.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/style-attrs.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/interactive-demo.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/graph-story-board.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/hover.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/etl-status.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/arrows.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/demo.js",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/dom.html",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/demo.css",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/clusters.html",
+				"/C/Users/Elvis/Desktop/Demo/index.html",
+				"/C/Users/Elvis/Desktop/Demo/app.css",
+				"/C/Users/Elvis/Desktop/dagre-d3-0.4.10/demo/shapes.html",
+				"/C/Users/Elvis/Desktop/gangtao-FlowChart-Builder/FlowChart-Builder/1.html",
+				"/C/Users/Elvis/Desktop/jsPlumb-master/demo/flowchart/dom.html",
+				"/C/Users/Elvis/Desktop/Demo/index.html.dump",
+				"/C/Users/Elvis/Desktop/jsPlumb Demo/jsPlumb_Demo_2.html",
+				"/C/Users/Elvis/Desktop/jsPlumb doc.md",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/Default (Windows).sublime-keymap",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/Default (Windows).sublime-keymap",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/Elvis/AppData/Roaming/Sublime Text 3/Packages/User/ConvertToUTF8.sublime-settings",
+				"/C/Users/Elvis/Desktop/流程图设计器/jsplumb.js",
+				"/C/Users/Elvis/Desktop/流程图设计器/jsplumb.min.js",
+				"/C/Users/Elvis/Desktop/gooflow0.9/GooFlow/data2.js",
+				"/C/Users/Elvis/Desktop/gooflow0.9/GooFlow/data.js",
+				"/C/Users/Elvis/Desktop/gooflow0.9/GooFlow/demo2.html",
+				"/C/Users/Elvis/Desktop/gooflow0.9/GooFlow/demo.html",
+				"/C/Users/Elvis/Desktop/gooflow0.9/GooFlow/child.js",
+				"/C/Users/Elvis/Desktop/gooflow0.8/GooFlow/demo2.html",
+				"/C/Users/Elvis/Desktop/gooflow0.8/default.css.dump",
+				"/C/Users/Elvis/Desktop/gooflow0.8/json2.js.dump",
+				"/C/Users/Elvis/Desktop/gooFlow/json2.js.dump",
+				"/C/Users/Elvis/Desktop/gooFlow/GooFlow/demo.html",
+				"/C/Users/Elvis/Desktop/gooFlow/json2.js",
+				"/C/Users/Elvis/Desktop/gooFlow/default.css.dump"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"tpl-echarts",
+					"body_wrapper",
+					"frt",
+					"中心简介",
+					"使用测试数据",
+					"demo-chart",
+					"../statics/scripts",
+					"draggable",
+					"click",
+					"detach",
+					"removeNode",
+					"let Chart",
+					"chart = ",
+					"basic",
+					"draggable",
+					"addNode",
+					"jtk-drag",
+					"p><a href=\"http://www.freedevelopertutorials.com/jsplumb-tutorial/introduction/\">Visit the full jsPlumb-Tutorial</a> to learn it and see many more interesting examples.</p>",
+					"  float: left;",
+					"draggable",
+					"list-group-item",
+					"data",
+					"data2",
+					"sidebar_label",
+					"\t\t\n",
+					"\"app_name\">应用名称</label>\n\t\t\t<p id=\"app_name\">办公自动化管理系统</p>\n\t\t\t<label for=\"app_code\">应用编码</label>\n\t\t\t<p id=\"app_code\">OAS</p>\n\t\t\t<label for=\"app_desc\">应用描述</label>\n\t\t\t<p id=\"app_desc\">办公自动化系统是XXX。。。</p>\n\t\t\t<label for=\"app_newNum\">最新版本：</label>\n\t\t\t<p id=\"app_newNum\">1.6.1</p>\n\t\t\t<label for=\"version_desc\">版本说明：</label>\n\t\t\t<p id=\"version_desc\">1、修复了XXX的问题；2、新增XXX功能用于XXX业务。。。</p>\n\t\t\t<label for=\"last_deploy\"></label>\n\t\t\t<p id=\"last_deploy\"></p>\n\t\t\t<label for=\"last_deploy_time\"></label>\n\t\t\t<p id=\"last_deploy_time\"></p>",
+					"html",
+					"   \n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"libs"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\Workspace\\Eclipse Project\\Dept3web"
+				},
+				{
+					"path": "E:\\GraduationProject\\模板素材\\admin"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/wq_xi/Desktop/AmazeUI.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1840,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										479,
+										479
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 336.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,668,277,148,1279",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 211.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

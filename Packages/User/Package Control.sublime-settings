@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"GBK Support",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"Markdown Extended",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeTmpl"
+	]
+}
